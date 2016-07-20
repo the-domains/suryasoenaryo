@@ -1,6 +1,4 @@
-author:
-  email: wei.surya@gmail.com
-  name: Soen Surya Soenaryo
+typography_spectrum: 0.46875
 color:
   brandColors:
     - '#191919'
@@ -8,10 +6,17 @@ color:
     - '#0B2886'
     - '#1898D7'
     - '#18C6E8'
-  brandStrength: 0.662006
-  lightness: 0.759868
-  rhythmicContrast: 1
-  saturation: 0.568256
+  brandStrength: 0.4597370324190706
+  lightness: 0.0388363569509238
+  rhythmicContrast: 0.989964110776782
+  saturation: 0.2966265541035682
 layout_spectrum: 1
+author:
+  email: wei.surya@gmail.com
+  name: Soen Surya Soenaryo
 name: suryasoenaryo
-typography_spectrum: 0.321546
+navigation:
+  - id: 'https://www.facebook.com/surya.soenaryo'
+    url: 'https://www.facebook.com/surya.soenaryo'
+    name: Facebook
+    type: external
