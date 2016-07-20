@@ -24,3 +24,7 @@ navigation:
     url: 'https://twitter.com/wei_surya'
     name: Twitter
     type: external
+  - id: 'https://www.instagram.com/wei_surya/'
+    url: 'https://www.instagram.com/wei_surya/'
+    name: Instagram
+    type: external
