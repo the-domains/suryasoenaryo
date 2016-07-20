@@ -1,4 +1,3 @@
-layout_spectrum: 0.5614732215180993
 typography_spectrum: 0.2539959482382983
 color:
   brandStrength: 0.4597370324190706
@@ -11,7 +10,13 @@ color:
     - '#8F9E8B'
     - '#F2E6B6'
     - '#412A22'
-name: suryasoenaryo
+layout_spectrum: 0.5614732215180993
 author:
   name: Soen Surya Soenaryo
   email: wei.surya@gmail.com
+name: suryasoenaryo
+navigation:
+  - id: 'https://www.facebook.com/surya.soenaryo'
+    url: 'https://www.facebook.com/surya.soenaryo'
+    name: Facebook
+    type: external
