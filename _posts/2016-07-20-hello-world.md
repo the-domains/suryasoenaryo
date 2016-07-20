@@ -1,12 +1,14 @@
 ---
 description: 'Hello, world! hello, everyone!'
-dateModified: '2016-07-20T14:35:40.051Z'
-datePublished: '2016-07-20T14:36:18.662Z'
+dateModified: '2016-07-20T17:56:13.181Z'
+datePublished: '2016-07-20T17:56:14.262Z'
 title: 'Hello, world!'
 author: []
 isBasedOnUrl: 'http://hellosemarang.com/wp-content/uploads/2015/08/lumpia-semarang-1.jpg'
-starred: false
 sourcePath: _posts/2016-07-20-hello-world.md
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
