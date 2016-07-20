@@ -20,3 +20,7 @@ navigation:
     url: 'https://www.facebook.com/surya.soenaryo'
     name: Facebook
     type: external
+  - id: 'https://twitter.com/wei_surya'
+    url: 'https://twitter.com/wei_surya'
+    name: Twitter
+    type: external
