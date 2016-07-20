@@ -28,3 +28,7 @@ navigation:
     url: 'https://www.instagram.com/wei_surya'
     name: Instagram
     type: external
+  - id: 'https://www.linkedin.com/in/weisurya'
+    url: 'https://www.linkedin.com/in/weisurya'
+    name: Linkedin
+    type: external
