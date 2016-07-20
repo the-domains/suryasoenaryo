@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[suryasoenaryo]]></title>
         <description><![CDATA[suryasoenaryo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suryasoenaryo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 14:36:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 17:39:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suryasoenaryo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c17f984-6abd-4eae-9cae-19ed3dbdd5c4.jpg">]]></description>
+            <link>https://thegrid.ai/suryasoenaryo/cc87f28e-5111-485b-b3b2-8b2f681b606d/index.html</link>
+            <guid isPermaLink="false">cc87f28e-5111-485b-b3b2-8b2f681b606d</guid>
+            <pubDate>Wed, 20 Jul 2016 17:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello, world!]]></title>
             <description><![CDATA[<article><h1>Hello, world!</h1><p>Hello, world! hello, everyone!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7f4063c-339b-480f-bc2d-eb276f1c2313.jpg"></article>]]></description>
