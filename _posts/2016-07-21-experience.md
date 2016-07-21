@@ -1,17 +1,16 @@
 ---
 description: 'Volunteer:'
-dateModified: '2016-07-21T18:31:47.162Z'
-datePublished: '2016-07-21T18:32:24.015Z'
+dateModified: '2016-07-21T18:32:47.673Z'
+datePublished: '2016-07-21T18:32:49.187Z'
 title: Experience
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-21-experience.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: experience/index.html
+_type: Blurb
 
 ---
 # Experience
