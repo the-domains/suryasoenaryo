@@ -32,3 +32,7 @@ navigation:
     url: 'https://www.linkedin.com/in/weisurya'
     name: Linkedin
     type: external
+  - id: 637fe08f-521d-43b2-b485-c905ca4850b1
+    url: 2016-07-21-experience.html
+    name: Experience
+    type: content
