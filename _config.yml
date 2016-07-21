@@ -10,6 +10,9 @@ color:
   lightness: 0.759868
   rhythmicContrast: 1
   saturation: 0.568256
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/93baa6cf-3219-4827-a652-8e2c5735fdb2.jpg
 layout_spectrum: 0.0988586291205138
 author:
   email: wei.surya@gmail.com
